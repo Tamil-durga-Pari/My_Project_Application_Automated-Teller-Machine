@@ -16,4 +16,4 @@ jobs:
     - name: build
       run: gcc quizgame -o hello.exe
     - name: Run
-      run: ./hello.exe
+      run: ./quizgame.exe
